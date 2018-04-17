@@ -1,3 +1,4 @@
+#second approach to do
 def str_th_red(th , str1):
     sum , index = 0 ,0
     for ch in str1:
